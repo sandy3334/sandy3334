@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandy3334
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning frontend web development.
 - � email :- wowsandeep3334@gmail.com
 
 <!---
